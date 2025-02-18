@@ -18,13 +18,13 @@ This is a simple console-based Snake and Ladder game implemented in C++. The gam
    cd Snake-and_Ladder_game
 
 2. **Compile the Code**:
-
-g++ -o Snake_and_ladder_game Snake_and_ladder_game.cpp
+   ```bash
+   g++ -o Snake_and_ladder_game Snake_and_ladder_game.cpp
 
 
 3. **Run the Game**:
-
-./Snake_and_ladder_game
+   ```bash
+   ./Snake_and_ladder_game
 
 
 **Follow the Prompts**:
@@ -40,7 +40,7 @@ g++ -o Snake_and_ladder_game Snake_and_ladder_game.cpp
 
 **Winning the Game**:
 
-The first player to reach or exceed position 100 wins the game.
+- The first player to reach or exceed position 100 wins the game.
 
 
 **Code Structure**:
@@ -58,5 +58,5 @@ The first player to reach or exceed position 100 wins the game.
 
 **Dependencies**:
 
-C++ Standard Library
-No external libraries are required.
+- C++ Standard Library.
+- No external libraries are required.
